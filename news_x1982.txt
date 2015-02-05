@@ -1,0 +1,24 @@
+<h3 class="nyhed">Titel Eksempel</h3>
+
+<p class="text">
+Tekst Eksempel - Kampagne tekst HER.
+<br />
+(Udvikler Note): Tekst og Titel i denne box kan aendres ved at logge ind som administrator i hjemmesidens footer.
+<br />
+<br />
+Login med:
+<br />
+Bruger og Password er:
+<br />
+admin / kea123 
+<br />
+<br />
+Vaelg news_x1982.txt til venstre og tryk load.
+<br />
+Saa har du teksten du ser her, og du kan aendre den frit, samt titlen. Tryk update naar du er faerdig og backup for at gemme filen under backup folderen paa serveren.
+<br />
+<br />
+(Udvikler Note): Denne box udvider sig automatisk vertikalt, efter indholdets omfang.
+<br />
+<a href="dok/nav_brahe.png">Her kan hjemmesidens nav-diagram ses</a>
+</p> 

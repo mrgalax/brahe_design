@@ -1,0 +1,19 @@
+<h2 class="nyhed">News</h2>
+
+<p class="text">
+<img style="float:left; padding-right:10px" src="images/led_display.png" alt="led" title="led lamper"/>
+<br />
+New website launched!
+<br />
+<br />
+(Developer note): Text and Title in this box can be changed by anyone with the correct user and password. The admin login is found at the footer section of every page.
+<br />
+<br />
+Once logged in, select home_news on the left and press load.
+<br />
+Once loaded, you'll see the editable text from this section.
+When you are done making changes, simply press update for the result to show up on the homepage, then finish with the backup key, to ensure a recovery method.
+<br />
+<br />
+(Developer note): This box will expand vertically when more text or images are added.</p>
+<br />
